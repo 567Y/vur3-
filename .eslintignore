@@ -1,0 +1,3 @@
+// 这些文件夹下面的文件不会被校验
+dist
+node_modules
